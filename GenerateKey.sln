@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GenerateKey", "GenerateKey\GenerateKey.vcxproj", "{7F950A6A-BFBD-4A91-B700-291C51F90BFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F950A6A-BFBD-4A91-B700-291C51F90BFA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7F950A6A-BFBD-4A91-B700-291C51F90BFA}.Debug|Win32.Build.0 = Debug|Win32
+		{7F950A6A-BFBD-4A91-B700-291C51F90BFA}.Release|Win32.ActiveCfg = Release|Win32
+		{7F950A6A-BFBD-4A91-B700-291C51F90BFA}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
